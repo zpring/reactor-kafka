@@ -31,7 +31,7 @@ powermock-core = { module = "org.powermock:powermock-core", version.ref = "power
 powermock-junit = { module = "org.powermock:powermock-module-junit4", version.ref = "powermock" }
 powermock-mockito = { module = "org.powermock:powermock-api-mockito2", version.ref = "powermock" }
 slf4j = "org.slf4j:slf4j-api:1.7.36"
-testcontainers = "org.testcontainers:kafka:1.21.3"
+testcontainers = "org.testcontainers:kafka:1.21.4"
 micrometer-observation = { module = "io.micrometer:micrometer-observation", version.ref = "micrometer" }
 micrometer-tracing-test = { module = "io.micrometer:micrometer-tracing-integration-test", version.ref = "micrometerTracing" }
 
