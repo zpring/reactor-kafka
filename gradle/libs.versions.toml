@@ -1,16 +1,16 @@
 [versions]
 # Reactor Core 3.4.41 is the last OSS release for 3.4.x series
-reactorCore = "3.4.41"
+reactorCore = "3.7.20"
 
 # Other shared versions
 asciidoctor = "3.3.2"
 kafka-doc = "28"
 log4j = "2.17.1"
 # Micrometer 1.10.13 is the last OSS release for 1.10.x series
-micrometer = "1.10.13"
+micrometer = "1.15.13"
 powermock = "2.0.9"
 reactiveStreams = "1.0.3"
-micrometerTracing = '1.1.4'
+micrometerTracing = '1.5.13'
 
 [libraries]
 kafka = "org.apache.kafka:kafka-clients:3.9.1"
